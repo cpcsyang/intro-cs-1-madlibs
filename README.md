@@ -1,7 +1,10 @@
-# intro-cs-1-madlibs
-Intro to CS, assignmnet 1 Madlibs
+# Madlibs game (intro-cs-1-madlibs)
+    Introduction to Computer Science class -  Assignmnet 1 Madlibs
+    (Python)
 
-***Make sure you Commit and Push your code go GitHub.com after each step.***
+## After each step, Make sure you: 
+- Commit code
+- Push your code to GitHub.com
 
 ## Step 1. Create and print a story with the following minimums tasks:
 - 5 lines of text (about 1 sentence per line)
@@ -16,11 +19,11 @@ Intro to CS, assignmnet 1 Madlibs
 - create variables and assign associated text
 - replace the associated text in your story with variables
 - use number to differenciate different nouns (e.g. noun_1, noun_2)
-- step 1 code:
+- For example, if step 1 code is:
 ```
     print("Hello Frank! How are you?")
 ```
-- step 2 code:
+- Then step 2 code is:
 ```
     name = "Frank"
     print("Hello " + name + "! How are you?")
@@ -31,4 +34,13 @@ Intro to CS, assignmnet 1 Madlibs
 - remember how to ask the user for an ***input***?
 - remember how to ***cast*** the value to the right data type
 
-  
+# Rubric
+
+| Description      | Points  |                |       | 
+|------------------|---------|----------------|-------|
+| Program Runs?    | Runs: 4 | Incompleted: 2 | No: 0 | 
+| Proper Comments? | Proper: 6 | Some: 2 - 4 | No: 0 | 
+| Step 1 Elements  | All: 10 | Some: 2 - 8 | Not commited: 0 |
+| Step 2 Elements  | All: 10 | Some: 2 - 8 | Not commited: 0 |
+| Step 3 Elements  | All: 10 | Some: 2 - 8 | Not commited: 0 |
+| TOTAL | 40 
