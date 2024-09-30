@@ -39,7 +39,7 @@
 
 | Description      | Points  |                |       | 
 |------------------|---------|----------------|-------|
-| Program Runs?    | Runs: 4 | Incompleted: 2 | No: 0 | 
+| Program Runs?    | Runs: 4 |  No: 0 | 
 | Proper Comments? | Proper: 6 | Some: 2 - 4 | No: 0 | 
 | Step 1 Elements  | All: 10 | Some: 2 - 8 | Not commited: 0 |
 | Step 2 Elements  | All: 10 | Some: 2 - 8 | Not commited: 0 |
