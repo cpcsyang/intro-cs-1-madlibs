@@ -30,6 +30,7 @@
 ```
 
 ## Step 3.
+- add player instructions at the beginning
 - instead of assign a fixed value, now ask the user for these values
 - remember how to ask the user for an ***input***?
 - remember how to ***cast*** the value to the right data type
